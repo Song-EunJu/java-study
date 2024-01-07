@@ -1,4 +1,4 @@
-### 현대오토에버 2023년 하반기 자바 스터디 
+## 현대오토에버 2023년 하반기 자바 스터디 
 
 - 백기선님의 [자바 라이브 스터디 레포](https://github.com/whiteship/live-study/issues?q=is%3Aissue+is%3Aclosed) 를 바탕으로 스터디를 진행합니다.
 - 스터디 기간 2023.09 ~ 진행중
